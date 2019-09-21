@@ -1,3 +1,5 @@
+# REST-Blog Client
+
 REST-Blog CMS front-end developed with React.js as a project of the SOA subject of my CS degree. It consumes a subset, not all, of the REST-Blog API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
