@@ -1,4 +1,4 @@
-REST-Blog CMS front-end developed with React.js as a project of the SOA subject of my CS degree. It consumes a subset, not all, of the REST-Blog API.
+REST-Blog CMS front-end developed with React.js as a project of the SOA subject of my CS degree. It consumes a subset, not all, of the [REST-Blog API](https://github.com/javierprtvel/REST-Blog).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
